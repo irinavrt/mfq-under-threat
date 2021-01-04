@@ -1,0 +1,570 @@
+date,suffer,treatdiff,country,auth,pure,math,cared,unfair,betray,trad,disgust,cruel,rights,loyal,chaos,god,free,restrict,decide,account,merits,punish,reward,viol,killed,harmed,age,gender,edu,polviews,polviews_full,not_loyal,respect_authority,indecent,compassio,gov_fair,proud_country,authority_children,disgust_noharm,good_bad,hurt_animal,justice,loyal_family,men_women,unnatural,kill_human,inherit,team_player,soldier_disobey,chastity,wave,cov_affect,cov_others_worry,cov_worry,cov_quarantine,cov_contag,version,id
+2019-09-18,5,5,4,4,5,0,5,5,5,5,5,5,5,3,5,5,4,5,4,5,4,4,5,5,5,5,54,Male,mid,conservative,Extremely conservative,4,4,5,7,5,4,5,7,7,7,7,7,7,7,1,7,1,7,7,t1,1,5,1,1,1,1,315
+2019-09-18,3,4,1,3,4,0,4,5,5,3,3,5,4,4,5,4,3,4,2,3,1,4,3,3,3,4,42,Male,high,conservative,Slightly conservative,4,2,4,5,4,4,4,5,7,5,4,3,5,5,3,1,4,5,4,t1,NA,NA,NA,NA,NA,1,233
+2019-09-18,3,3,1,1,2,0,4,1,3,1,2,5,2,4,3,1,2,4,2,3,1,3,2,5,5,5,35,Male,high,liberal,Slightly liberal,4,2,4,7,7,7,4,3,7,7,5,5,2,4,2,1,5,5,1,t1,NA,NA,NA,NA,NA,1,166
+2019-09-18,4,5,3,0,4,0,2,5,5,0,3,5,5,5,2,0,5,5,5,2,0,0,4,2,3,4,27,Male,high,moderate,Moderate,5,1,4,1,7,1,7,1,4,1,4,1,7,4,1,1,1,7,1,t1,2,4,2,2,2,1,43
+2019-09-18,3,3,4,3,4,0,3,3,2,3,3,3,3,1,4,4,2,3,2,2,1,3,2,4,4,4,75,Male,mid,conservative,Conservative,3,4,4,4,5,7,7,4,7,7,5,5,2,5,5,2,5,5,5,t1,3,4,2,1,1,1,141
+2019-09-18,2,2,0,3,3,0,3,2,4,2,4,4,3,2,3,3,0,4,4,3,2,1,4,5,5,5,41,Male,mid,liberal,Slightly liberal,3,4,5,5,4,3,5,2,7,2,3,7,3,4,1,4,5,7,3,t1,4,4,2,1,1,1,301
+2019-09-18,3,1,3,2,3,0,3,3,3,2,3,4,3,3,4,4,1,2,2,3,2,2,3,4,4,4,58,Male,high,conservative,Extremely conservative,4,3,4,4,4,7,7,4,7,7,5,5,5,5,3,1,4,5,7,t1,NA,NA,NA,NA,NA,1,266
+2019-09-18,0,5,0,0,2,0,2,5,0,0,2,2,5,0,2,3,5,5,5,3,0,5,3,3,3,3,35,Male,mid,conservative,Slightly conservative,3,3,3,3,7,1,2,3,7,4,1,3,4,1,1,7,1,1,4,t1,NA,NA,NA,NA,NA,1,100
+2019-09-18,5,4,0,2,3,0,2,5,1,0,3,5,3,1,4,2,2,3,2,3,1,3,1,5,5,5,37,Female,mid,conservative,Conservative,2,5,3,7,7,4,5,4,7,7,5,5,2,4,7,4,4,5,4,t1,2,4,2,1,1,1,111
+2019-09-18,0,0,2,1,3,0,0,0,4,3,2,0,5,3,0,0,4,4,1,3,4,3,3,3,5,4,36,Male,high,conservative,Extremely conservative,4,2,3,1,1,4,3,5,5,4,5,4,7,5,1,1,3,1,7,t1,2,5,1,1,1,1,87
+2019-09-18,3,3,3,2,4,0,4,2,2,3,3,3,3,3,2,4,3,3,3,3,1,4,1,4,5,3,37,Female,mid,conservative,Slightly conservative,3,3,3,5,4,4,5,4,7,7,4,4,5,4,5,4,4,5,5,t1,2,4,2,1,1,1,133
+2019-09-18,2,3,2,4,4,2,4,4,3,4,4,4,5,4,4,4,4,3,4,4,4,3,3,3,2,4,24,Male,high,conservative,Conservative,4,4,3,3,7,5,5,5,7,4,5,1,4,4,2,2,5,5,5,t1,2,4,2,1,1,1,158
+2019-09-18,4,3,2,4,4,0,5,4,3,3,3,5,4,5,2,5,2,4,3,4,3,5,5,5,5,5,38,Female,high,conservative,Conservative,5,4,4,7,7,4,4,7,7,7,7,7,5,7,7,5,4,7,7,t1,3,2,4,1,1,1,66
+2019-09-18,4,3,1,0,2,0,2,4,4,0,0,4,4,0,4,1,2,2,2,2,1,2,3,4,4,4,31,Female,high,moderate,Moderate,2,3,4,7,4,2,5,2,7,5,5,1,1,5,7,1,2,2,1,t1,5,3,3,1,1,1,314
+2019-09-18,5,5,0,0,0,0,5,5,1,0,0,5,5,2,5,5,5,5,5,5,3,5,5,5,5,5,36,Male,mid,conservative,Extremely conservative,3,1,5,7,7,1,4,1,7,7,7,1,7,1,7,7,1,1,1,t1,NA,NA,NA,NA,NA,1,223
+2019-09-18,4,4,4,5,5,4,5,4,4,4,5,4,5,4,4,5,5,5,5,4,4,4,4,5,5,4,72,Male,mid,liberal,Liberal,5,5,5,5,7,7,5,1,7,5,7,7,7,7,7,5,5,5,7,t1,NA,NA,NA,NA,NA,1,73
+2019-09-18,3,2,3,3,1,0,2,5,4,1,1,4,5,4,4,0,5,5,2,4,2,4,3,5,5,5,55,Male,mid,libertarian,Libertarian,5,4,4,4,7,7,4,2,7,7,5,1,5,7,1,1,1,3,1,t1,2,4,2,1,1,1,205
+2019-09-18,5,1,3,3,5,0,2,2,2,1,2,3,5,2,3,5,4,5,4,4,2,4,2,5,5,5,38,Female,mid,conservative,Slightly conservative,4,4,4,7,7,5,7,7,7,5,5,2,5,7,7,1,2,7,7,t1,1,5,1,1,1,1,299
+2019-09-18,2,2,1,1,1,0,2,2,3,1,1,3,4,2,2,0,2,3,1,3,2,3,1,3,4,3,29,Male,high,conservative,Slightly conservative,3,2,4,3,4,4,3,3,5,4,4,4,4,3,3,3,3,3,4,t1,2,3,2,1,1,1,16
+2019-09-18,3,4,1,3,3,0,1,5,4,4,1,3,5,4,4,0,4,4,2,3,1,3,2,4,5,3,33,Male,high,conservative,Slightly conservative,2,2,4,2,4,5,7,4,7,7,3,2,7,1,2,1,4,5,5,t1,4,1,4,1,1,1,207
+2019-09-18,3,5,4,4,5,1,5,5,4,5,5,5,5,4,5,5,2,2,1,5,4,4,5,5,5,5,38,Male,high,conservative,Extremely conservative,5,4,5,7,7,7,7,7,7,7,7,5,7,7,4,1,5,5,7,t1,2,4,2,1,1,1,118
+2019-09-18,3,5,4,2,4,0,4,5,3,3,4,5,5,3,5,2,4,5,3,4,2,4,5,5,5,5,57,Female,mid,conservative,Slightly conservative,4,4,5,7,7,7,7,7,7,7,7,5,4,5,2,5,2,5,5,t1,2,4,2,3,1,1,42
+2019-09-18,3,3,3,3,3,0,3,3,3,3,2,3,4,3,4,4,3,3,2,4,3,3,2,3,4,4,53,Female,high,conservative,Conservative,4,4,4,5,5,5,5,4,7,5,7,4,5,5,2,5,3,5,4,t1,NA,NA,NA,NA,NA,1,176
+2019-09-18,1,2,3,3,3,0,3,4,4,3,3,4,3,4,4,0,2,2,2,4,3,4,4,3,2,2,38,Male,mid,conservative,Slightly conservative,4,4,4,2,5,4,4,5,7,3,4,3,5,4,1,2,3,3,5,t1,5,1,5,1,1,1,258
+2019-09-18,4,3,2,2,3,0,3,4,2,2,3,4,5,3,4,2,3,3,3,2,0,1,2,3,5,5,27,Male,mid,conservative,Conservative,4,2,4,7,7,7,7,2,7,7,5,7,7,5,1,1,2,3,4,t1,3,4,2,1,1,1,155
+2019-09-18,5,5,3,5,5,0,3,5,5,3,1,4,5,3,5,5,5,5,0,5,3,5,4,5,5,5,55,Male,mid,conservative,Conservative,4,4,5,7,7,5,7,7,7,7,7,7,7,7,3,1,4,4,7,t1,2,3,2,1,1,1,219
+2019-09-18,3,3,2,4,4,0,4,3,4,3,3,5,5,4,4,5,0,3,1,4,3,3,3,4,5,5,37,Female,high,conservative,Conservative,4,4,5,5,5,5,7,7,7,4,5,5,7,7,7,3,4,7,7,t1,NA,NA,NA,NA,NA,1,103
+2019-09-18,1,4,2,3,4,0,1,4,3,1,5,4,5,1,4,3,1,3,1,2,1,1,4,4,5,4,41,Female,mid,conservative,Conservative,4,4,4,5,5,7,1,4,7,7,5,2,2,5,2,1,3,5,5,t1,2,5,3,1,1,1,190
+2019-09-18,3,1,1,0,2,0,2,3,0,1,1,5,1,0,3,0,3,4,2,1,0,0,0,3,4,4,55,Female,high,conservative,Extremely conservative,1,1,2,5,4,5,7,3,7,4,7,4,4,4,1,1,1,5,5,t1,5,5,2,1,1,1,227
+2019-09-18,5,4,1,3,2,0,3,5,2,1,1,3,4,3,2,0,4,2,2,3,2,2,1,4,4,4,24,Male,high,conservative,Conservative,4,3,4,4,5,4,4,2,7,5,4,2,4,2,2,1,3,4,1,t1,4,1,4,1,1,1,251
+2019-09-18,3,3,0,3,2,0,4,2,3,0,0,3,3,1,1,3,3,3,3,3,0,1,2,2,3,3,40,Female,mid,conservative,Conservative,3,4,3,7,7,5,7,5,7,7,4,7,4,5,7,3,7,7,7,t1,NA,NA,NA,NA,NA,1,55
+2019-09-18,3,4,3,4,5,0,3,4,4,3,3,4,5,4,3,2,1,4,1,4,1,4,3,5,5,4,45,Female,mid,conservative,Slightly conservative,4,4,5,5,7,7,7,7,7,5,7,5,4,5,2,1,4,7,4,t1,2,4,2,1,1,1,45
+2019-09-18,4,5,5,5,4,0,4,3,2,1,2,4,5,1,5,1,4,5,3,4,3,5,5,5,5,4,44,Male,mid,conservative,Conservative,3,5,4,7,7,5,7,4,7,7,4,5,1,3,7,2,2,5,3,t1,4,2,5,1,1,1,143
+2019-09-18,5,5,5,5,5,0,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,4,5,5,5,54,Female,mid,conservative,Slightly conservative,5,5,5,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,t1,5,5,5,1,1,1,194
+2019-09-18,4,4,3,5,4,0,3,3,3,4,4,3,4,3,5,5,3,3,3,3,2,3,2,4,5,5,58,Female,mid,conservative,Conservative,5,4,5,7,5,7,7,5,7,5,7,5,7,5,2,1,1,5,5,t1,2,4,2,1,1,1,130
+2019-09-18,4,2,2,3,4,3,3,3,3,3,1,3,3,2,2,2,4,1,3,2,2,3,3,3,2,3,26,Male,mid,liberal,Slightly liberal,3,2,2,4,3,7,3,3,7,7,4,2,5,5,7,3,4,7,3,t1,NA,NA,NA,NA,NA,1,125
+2019-09-18,3,3,2,2,0,0,5,4,3,0,0,5,5,2,5,1,2,3,2,4,0,2,4,4,5,4,73,Female,high,conservative,Conservative,3,2,2,7,7,5,4,3,7,7,5,1,1,2,2,3,2,1,2,t1,2,3,4,1,1,1,94
+2019-09-18,2,2,2,3,4,0,3,2,1,3,2,4,3,2,3,5,3,3,0,0,0,0,2,3,3,4,40,Male,high,conservative,Extremely conservative,3,3,4,4,5,7,7,4,7,5,5,5,4,4,1,1,2,5,7,t1,3,4,2,1,1,1,210
+2019-09-18,3,1,1,2,2,0,1,2,1,2,2,5,3,1,1,0,1,0,1,3,1,1,2,2,5,2,24,Female,mid,conservative,Conservative,2,2,2,4,3,5,5,2,5,5,2,3,4,3,4,3,4,5,5,t1,NA,NA,NA,NA,NA,1,167
+2019-09-18,5,5,0,0,0,0,5,5,2,0,0,5,5,2,2,0,5,5,5,4,2,5,4,5,5,5,29,Male,high,conservative,Conservative,4,1,1,7,7,1,4,1,7,7,4,7,1,1,1,1,3,5,1,t1,NA,NA,NA,NA,NA,1,213
+2019-09-18,5,5,1,3,0,0,5,5,2,2,0,5,5,2,4,0,4,5,1,5,2,5,5,5,5,5,41,Male,mid,conservative,Conservative,2,4,5,7,7,1,7,2,7,7,7,3,7,2,1,4,7,7,1,t1,2,3,1,1,1,1,185
+2019-09-18,4,3,3,4,4,0,4,4,4,2,4,5,5,1,5,2,1,2,1,3,2,3,3,4,5,4,45,Male,high,conservative,Conservative,3,3,4,7,5,4,7,7,7,7,5,3,7,7,1,2,4,7,1,t1,4,1,4,1,1,1,225
+2019-09-18,0,0,5,5,5,0,0,0,5,5,5,0,5,5,5,5,0,5,0,0,0,0,0,0,0,5,24,Male,high,conservative,Extremely conservative,5,5,5,1,1,7,7,7,7,1,7,7,7,7,1,1,7,7,7,t1,NA,NA,NA,NA,NA,1,260
+2019-09-18,3,2,0,2,3,0,4,1,0,1,2,4,1,0,4,0,1,1,0,0,2,0,0,5,5,5,31,Female,high,conservative,Slightly conservative,1,2,4,7,7,4,7,7,7,7,7,5,1,3,7,1,3,2,7,t1,5,2,5,1,1,1,263
+2019-09-18,5,3,4,5,4,4,5,4,5,5,5,5,5,5,4,5,4,4,5,4,5,4,4,5,5,5,39,Male,high,conservative,Extremely conservative,4,4,5,5,7,7,7,7,7,4,3,7,7,7,2,2,7,7,7,t1,NA,NA,NA,NA,NA,1,93
+2019-09-18,4,3,3,4,5,0,5,4,3,5,5,3,5,3,4,5,0,5,5,5,3,4,5,5,5,5,44,Female,mid,conservative,Conservative,4,5,5,7,5,5,5,1,7,5,5,1,5,7,4,1,4,3,7,t1,2,3,2,1,1,1,277
+2019-09-18,5,5,5,5,4,1,4,3,5,5,4,5,5,5,5,5,5,5,5,5,4,4,5,5,5,5,70,Female,mid,liberal,Extremely liberal,4,5,5,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,t1,3,4,2,1,1,1,220
+2019-09-18,5,4,2,2,2,0,5,5,2,0,1,5,5,1,4,5,4,4,2,4,3,3,4,5,5,5,43,Male,high,conservative,Slightly conservative,4,4,2,5,7,4,5,2,7,7,7,2,7,2,7,1,4,5,5,t1,4,4,3,1,1,1,322
+2019-09-18,5,5,5,4,5,0,4,5,5,4,3,5,5,5,5,5,5,5,3,4,4,5,5,5,1,5,32,Male,high,conservative,Conservative,5,4,5,5,5,7,7,5,7,7,5,5,7,7,5,1,2,5,7,t1,NA,NA,NA,NA,NA,1,17
+2019-09-18,2,4,1,1,3,0,1,5,2,0,0,3,4,1,4,0,0,1,1,3,0,2,5,3,5,4,45,Female,high,conservative,Conservative,2,2,4,3,3,5,5,4,5,7,5,1,3,5,3,1,2,5,3,t1,2,4,2,1,1,1,280
+2019-09-19,1,0,1,5,5,1,0,0,3,5,2,3,4,3,0,1,3,5,1,1,1,0,4,3,5,1,33,Male,high,conservative,Slightly conservative,1,3,2,4,3,7,5,1,3,4,4,3,5,5,3,1,7,4,4,t1,NA,NA,NA,NA,NA,1,154
+2019-09-19,4,3,2,3,1,0,4,4,2,1,2,4,4,3,4,0,3,3,3,4,3,4,4,5,5,5,35,Female,mid,conservative,Slightly conservative,2,3,2,7,7,4,7,2,7,7,5,4,3,2,7,4,2,5,1,t1,2,3,2,1,1,1,202
+2019-09-19,3,2,0,1,3,0,2,2,1,2,2,4,2,1,4,0,2,2,3,2,2,3,4,3,4,3,45,Male,high,liberal,Liberal,2,2,4,3,4,5,2,4,5,3,2,1,4,3,1,1,3,3,1,t1,4,1,4,1,1,1,264
+2019-09-19,4,5,0,0,4,0,5,4,4,0,0,5,3,4,5,0,5,5,5,5,1,4,4,5,5,5,32,Male,mid,moderate,Moderate,4,3,5,7,7,1,1,1,7,7,2,1,4,2,7,7,1,1,4,t1,1,5,1,1,1,1,116
+2019-09-19,3,3,3,2,2,1,4,4,4,1,2,5,4,4,4,5,3,3,3,4,3,4,3,4,5,5,27,Male,mid,moderate,Moderate,4,3,3,5,4,5,4,4,7,7,4,5,3,4,4,3,4,3,4,t1,3,2,3,1,1,1,238
+2019-09-19,3,5,1,2,2,0,4,5,2,2,2,3,5,3,1,0,3,3,3,4,4,4,4,4,4,4,49,Male,high,conservative,Extremely conservative,3,2,3,5,7,3,4,4,7,3,7,3,5,4,1,2,2,4,5,t1,2,5,2,1,1,1,175
+2019-09-19,3,4,1,3,3,0,4,4,2,2,4,5,4,1,5,1,3,4,4,4,1,4,3,5,5,5,31,Female,high,liberal,Slightly liberal,3,3,4,5,7,1,3,4,5,5,5,3,4,4,4,2,2,2,3,t1,2,4,2,1,1,1,245
+2019-09-19,4,2,1,3,2,0,1,4,2,2,2,4,4,2,4,0,2,3,2,2,1,3,2,5,5,4,37,Female,high,liberal,Slightly liberal,2,4,4,4,7,3,4,3,7,7,5,3,2,3,5,2,3,3,3,t1,2,5,1,1,1,1,321
+2019-09-19,5,4,1,1,3,0,3,4,2,1,3,4,3,2,4,4,3,4,3,4,2,2,3,4,5,5,55,Male,mid,moderate,Moderate,2,2,3,7,7,4,3,4,7,7,4,2,5,5,4,4,2,2,5,t1,4,2,3,1,1,1,177
+2019-09-19,4,4,2,2,3,0,4,4,1,2,5,5,4,1,4,4,1,4,1,4,0,2,1,5,5,5,59,Female,mid,conservative,Conservative,3,4,4,5,5,3,5,7,7,5,5,2,5,5,5,2,4,4,5,t1,NA,NA,NA,NA,NA,1,178
+2019-09-19,5,5,3,4,4,0,5,5,3,4,2,5,4,1,2,1,4,4,5,4,5,4,4,4,3,5,32,Male,high,conservative,Slightly conservative,2,1,2,5,7,5,7,5,7,7,7,7,5,4,5,5,3,5,3,t1,4,5,4,1,1,1,147
+2019-09-19,5,4,1,0,1,0,4,4,3,1,2,4,5,1,3,0,3,3,3,4,2,4,2,3,4,5,41,Male,high,liberal,Extremely liberal,2,1,2,7,7,2,2,2,7,5,7,3,1,2,7,7,4,1,1,t1,2,2,3,1,1,1,262
+2019-09-19,2,3,1,1,2,0,2,2,2,1,3,4,4,2,1,2,2,4,4,2,3,2,2,4,3,3,39,Female,mid,liberal,Extremely liberal,3,1,4,4,7,3,3,5,7,3,5,3,3,4,4,4,3,5,4,t1,5,1,5,1,1,1,1
+2019-09-19,5,4,1,2,2,0,5,4,5,1,2,5,5,4,4,0,3,4,3,4,2,4,3,5,4,5,32,Male,mid,liberal,Slightly liberal,4,2,4,7,5,5,4,3,7,7,5,2,2,4,2,2,2,3,2,t1,2,4,1,1,1,1,112
+2019-09-19,3,3,2,3,4,0,3,4,3,3,4,4,5,4,4,3,3,5,2,5,4,5,5,4,5,4,28,Male,mid,conservative,Conservative,5,4,4,5,7,4,5,7,7,7,7,5,7,5,2,3,3,5,4,t1,2,3,2,1,1,1,248
+2019-09-19,2,5,2,0,0,0,4,5,2,0,0,4,4,1,2,0,1,1,1,4,3,4,4,4,5,4,35,Male,high,conservative,Slightly conservative,3,1,1,2,7,4,4,1,7,7,7,2,4,1,1,2,4,3,2,t1,2,5,2,1,1,1,196
+2019-09-19,5,5,1,1,0,0,5,5,1,1,0,5,5,1,1,0,5,5,5,3,4,3,4,4,5,5,42,Male,high,liberal,Slightly liberal,2,1,1,7,7,3,4,1,7,5,4,3,2,1,5,7,2,2,3,t1,3,2,3,1,1,1,88
+2019-09-19,5,5,1,2,1,0,5,5,2,2,2,5,5,2,3,0,2,3,2,5,3,5,5,5,5,5,37,Male,high,liberal,Extremely liberal,2,3,4,7,7,4,4,4,7,7,7,5,1,4,3,7,2,4,1,t1,2,3,4,1,1,1,212
+2019-09-19,1,1,0,0,2,0,3,1,0,1,1,2,1,3,0,0,0,1,1,1,0,1,0,5,5,5,30,Female,high,liberal,Liberal,2,2,4,2,4,1,2,1,7,4,2,1,2,1,1,5,1,1,1,t1,NA,NA,NA,NA,NA,1,142
+2019-09-19,3,4,1,3,3,0,5,5,1,2,2,4,4,3,3,1,3,3,3,4,2,4,4,4,5,5,45,Male,high,moderate,Moderate,5,4,4,7,7,1,4,4,7,5,4,4,5,4,7,7,4,3,4,t1,NA,NA,NA,NA,NA,1,281
+2019-09-19,3,3,1,3,1,0,3,3,1,1,1,3,4,1,2,3,1,3,2,0,3,4,3,5,4,4,32,Male,mid,liberal,Slightly liberal,1,2,2,4,7,4,4,2,4,5,5,3,3,2,5,2,3,2,1,t1,3,3,3,1,1,1,23
+2019-09-19,5,3,1,2,3,0,0,4,2,1,3,4,2,2,3,0,2,2,3,2,1,1,2,5,5,5,33,Female,mid,liberal,Extremely liberal,4,4,4,5,7,1,4,5,7,4,3,2,3,4,5,1,2,4,2,t1,2,5,2,1,1,1,62
+2019-09-19,4,5,0,2,0,0,3,5,0,0,0,4,5,0,3,0,0,1,1,2,1,2,3,5,5,5,61,Male,high,liberal,Liberal,1,3,1,3,7,1,4,1,7,5,7,1,1,1,1,7,1,4,1,t1,NA,NA,NA,NA,NA,1,52
+2019-09-19,4,4,1,2,5,0,3,4,3,3,4,3,4,1,3,4,3,3,3,3,3,3,2,4,5,4,39,Male,high,conservative,Conservative,2,3,4,5,5,5,4,5,5,5,5,4,5,5,4,5,4,4,4,t1,2,3,2,1,1,1,309
+2019-09-19,4,4,3,4,4,0,5,3,3,4,5,4,3,3,3,5,5,4,4,4,4,4,5,4,5,5,54,Female,high,liberal,Slightly liberal,4,4,4,7,5,7,5,5,5,5,5,7,5,7,1,7,7,7,7,t1,5,5,5,3,3,1,300
+2019-09-19,5,5,1,1,2,0,5,5,3,1,2,5,5,3,5,0,2,2,3,5,4,3,4,4,5,5,54,Female,high,liberal,Liberal,5,2,4,7,7,4,5,4,7,7,5,3,1,4,5,5,5,4,1,t1,NA,NA,NA,NA,NA,1,244
+2019-09-19,3,4,1,0,0,0,3,4,1,0,0,4,4,0,2,2,4,4,4,4,3,4,5,4,4,5,55,Male,high,moderate,Moderate,1,1,1,5,7,5,3,2,5,7,5,3,4,1,1,2,3,3,1,t1,NA,NA,NA,NA,NA,1,326
+2019-09-19,4,4,1,3,1,0,3,3,2,2,1,3,4,4,3,0,3,4,3,3,3,4,3,4,4,4,28,Male,high,liberal,Slightly liberal,4,3,4,7,5,2,4,2,7,7,4,5,2,2,5,5,3,4,3,t1,2,3,2,1,1,1,122
+2019-09-19,4,5,4,4,2,0,5,4,4,2,2,5,5,4,5,4,4,4,4,4,4,4,3,4,5,4,54,Female,high,conservative,Slightly conservative,4,4,4,5,7,5,5,4,7,5,7,7,4,4,3,2,4,7,3,t1,2,4,2,1,1,1,237
+2019-09-19,4,5,1,1,3,0,4,4,4,3,2,4,5,1,3,0,5,5,4,3,3,3,3,3,3,3,36,Male,high,liberal,Slightly liberal,2,2,4,5,7,3,4,5,5,7,4,4,5,5,2,3,5,5,4,t1,4,2,3,1,1,1,24
+2019-09-19,5,5,0,0,0,0,5,5,2,0,0,5,5,2,0,0,5,5,5,4,0,2,5,5,5,5,32,Female,high,liberal,Extremely liberal,3,1,1,7,7,2,4,1,7,7,5,1,1,1,7,5,1,1,1,t1,NA,NA,NA,NA,NA,1,199
+2019-09-19,3,4,0,1,0,0,3,4,0,1,0,3,4,0,2,0,1,3,0,1,3,1,2,4,4,4,56,Female,high,liberal,Liberal,1,2,2,5,7,1,5,1,7,5,5,1,2,1,3,4,2,3,1,t1,4,2,2,1,1,1,265
+2019-09-19,5,5,2,4,2,1,5,5,5,2,4,5,5,3,5,1,4,5,4,5,5,5,5,5,3,5,46,Male,high,moderate,Moderate,4,5,5,7,7,2,5,5,7,7,5,2,7,4,5,7,3,4,4,t1,4,2,4,1,1,1,140
+2019-09-19,5,5,0,1,0,0,5,5,1,0,0,5,5,1,1,0,5,5,5,4,2,1,5,5,5,5,36,Female,mid,liberal,Extremely liberal,2,1,1,7,7,2,4,1,7,7,7,4,1,1,7,4,1,1,1,t1,4,1,5,1,1,1,250
+2019-09-19,3,3,1,2,3,0,4,4,3,1,4,4,4,4,3,2,3,4,3,4,2,4,3,4,5,4,53,Male,mid,moderate,Moderate,4,3,3,5,7,2,3,5,5,4,4,3,4,5,5,5,4,3,4,t1,NA,NA,NA,NA,NA,1,184
+2019-09-19,5,4,2,4,4,0,5,5,5,3,4,5,5,5,5,5,4,4,4,5,5,5,5,5,5,5,63,Male,high,moderate,Moderate,5,4,5,7,7,1,7,5,7,7,7,5,4,5,2,1,5,7,5,t1,2,3,2,1,1,1,72
+2019-09-19,2,2,1,2,1,0,3,4,3,1,1,5,5,2,4,1,2,2,1,3,3,2,3,5,5,5,36,Male,high,liberal,Slightly liberal,3,3,2,5,5,4,4,2,7,7,4,4,1,3,3,3,4,4,3,t1,2,3,3,1,1,1,139
+2019-09-19,4,3,1,3,1,0,2,3,2,1,1,4,3,2,3,2,3,2,1,4,2,3,5,3,5,5,59,Female,mid,moderate,Moderate,3,4,4,5,5,5,5,3,7,7,5,4,1,2,3,2,2,5,4,t1,5,2,4,1,1,1,229
+2019-09-19,5,5,0,0,0,0,5,5,0,0,0,5,5,0,5,0,5,5,5,5,0,5,5,5,5,5,32,Female,mid,liberal,Liberal,1,1,3,1,7,1,1,1,7,1,7,1,1,1,1,1,1,1,1,t1,2,5,2,1,1,1,151
+2019-09-19,2,2,4,3,5,0,3,3,2,4,4,4,2,2,2,5,2,3,5,3,2,3,2,3,5,4,57,Female,mid,conservative,Slightly conservative,3,4,4,5,3,7,7,7,7,7,5,4,5,5,5,4,3,4,5,t1,3,2,3,1,1,1,35
+2019-09-19,1,5,0,0,2,0,2,5,1,1,0,4,5,1,2,0,4,4,1,4,0,3,4,3,5,5,52,Male,high,liberal,Liberal,1,1,2,4,7,3,5,2,7,4,7,2,2,2,3,3,3,5,1,t1,2,4,2,1,1,1,331
+2019-09-19,4,3,1,4,3,0,3,3,1,1,3,5,5,1,4,0,3,4,0,4,2,4,4,5,5,5,56,Female,mid,liberal,Slightly liberal,3,3,4,7,7,2,5,4,7,7,7,1,2,4,4,4,3,4,3,t1,3,4,2,1,1,1,306
+2019-09-19,4,4,4,5,3,0,4,4,3,2,3,4,4,2,3,5,3,4,4,4,4,5,1,5,5,5,54,Female,high,moderate,Moderate,4,5,4,7,7,5,7,4,7,5,7,5,5,4,7,1,5,7,5,t1,NA,NA,NA,NA,NA,1,302
+2019-09-19,5,5,5,5,3,0,5,2,2,5,3,5,5,3,3,4,5,5,5,5,1,4,3,3,5,4,37,Female,mid,liberal,Slightly liberal,5,5,2,7,7,7,7,1,4,7,7,4,5,3,2,5,1,7,4,t1,2,4,1,1,1,1,272
+2019-09-19,5,5,0,0,0,0,5,5,3,0,3,5,5,2,2,0,4,3,3,3,0,3,4,3,5,0,29,Female,high,liberal,Liberal,2,1,1,7,7,4,1,1,7,7,4,1,1,1,5,4,1,1,1,t1,NA,NA,NA,NA,NA,1,217
+2019-09-19,5,4,0,5,2,0,5,4,3,2,0,5,5,5,2,5,4,5,5,5,4,4,1,5,5,3,40,Male,mid,liberal,Liberal,4,5,4,7,7,7,7,4,7,7,7,4,5,2,2,5,1,7,5,t1,2,4,1,1,1,1,31
+2019-09-19,4,4,1,3,3,0,4,4,2,2,2,5,4,2,4,0,4,3,2,4,2,4,2,3,4,4,47,Male,mid,liberal,Liberal,3,3,4,7,7,3,4,7,7,7,7,3,5,5,3,7,2,4,5,t1,3,1,3,1,1,1,6
+2019-09-19,4,4,2,0,2,0,4,3,2,0,1,4,4,2,3,0,2,3,3,3,1,2,4,4,4,4,65,Male,mid,liberal,Liberal,2,1,2,7,7,4,3,4,5,7,7,4,1,3,4,1,1,2,7,t1,2,2,3,1,1,1,27
+2019-09-19,5,4,2,3,3,0,5,4,3,2,2,4,4,3,4,4,3,3,3,5,3,3,4,5,5,5,66,Female,mid,liberal,Liberal,4,4,5,7,7,5,4,3,7,7,5,3,2,4,4,5,3,4,2,t1,3,2,4,3,1,1,136
+2020-02-13,3,4,1,2,2,NA,3,4,1,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,120
+2020-02-13,4,5,1,1,2,NA,3,4,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,Male,mid,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,3,2,2,2,19
+2020-02-13,4,5,1,2,1,NA,4,5,3,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,2,4,3,1,2,308
+2020-02-13,4,5,0,0,0,NA,5,5,3,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Female,mid,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,37
+2020-02-13,4,4,0,0,1,NA,5,4,2,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,37,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,64
+2020-02-13,4,2,1,0,2,NA,2,2,4,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,44
+2020-02-13,4,2,1,3,4,NA,4,2,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,274
+2020-02-13,3,4,1,1,1,NA,4,4,1,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,54,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,246
+2020-02-13,5,5,4,4,5,NA,5,5,4,5,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,43,Female,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,209
+2020-02-13,5,5,2,3,5,NA,4,4,3,1,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,283
+2020-02-13,3,4,3,4,2,NA,4,3,3,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,55,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,5,3,5,2,2,2,171
+2020-02-13,5,4,1,2,2,NA,4,5,5,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,58,Female,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,174
+2020-02-13,2,2,1,1,2,NA,2,2,3,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,Male,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,179
+2020-02-13,4,4,1,2,2,NA,4,4,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,3,3,1,1,2,226
+2020-02-13,4,3,0,1,1,NA,4,3,2,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,47,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,228
+2020-02-13,2,2,2,2,2,NA,5,5,3,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,Male,mid,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,NA
+2020-02-13,5,5,0,0,5,NA,5,5,2,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,3,3,1,3,2,297
+2020-02-13,4,4,3,3,4,NA,4,4,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,60,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,3,4,1,1,2,77
+2020-02-13,2,3,4,3,1,NA,2,3,1,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,Male,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,60
+2020-02-13,5,4,1,2,1,NA,4,4,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,2,3,3,1,2,30
+2020-02-13,5,5,0,1,0,NA,5,5,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,60,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,3,3,2,2,2,20
+2020-02-13,4,4,2,3,5,NA,4,3,3,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,51,Male,mid,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,275
+2020-02-13,3,2,1,3,5,NA,3,4,2,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,41,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,131
+2020-02-13,5,5,2,3,1,NA,4,5,3,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,38,Male,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,5
+2020-02-13,5,4,0,2,2,NA,4,4,2,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,148
+2020-02-13,2,3,2,2,4,NA,4,4,2,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,67,Female,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,92
+2020-02-13,3,4,2,2,0,NA,5,5,4,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,37,Male,mid,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,3,1,2,2,239
+2020-02-13,5,5,0,2,1,NA,5,5,1,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,38,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,57
+2020-02-13,2,3,1,2,3,NA,3,4,1,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Female,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,2,3,1,1,2,98
+2020-02-13,5,5,1,1,1,NA,5,5,5,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,46,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,138
+2020-02-13,3,3,0,0,0,NA,3,4,0,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,45,Male,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,2,80
+2020-02-13,0,4,3,4,0,NA,0,3,1,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,Male,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,1,5,1,1,1,2,191
+2020-02-13,2,4,0,3,2,NA,2,3,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,4,2,1,1,2,287
+2020-02-13,5,5,3,3,3,NA,5,5,4,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,47,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,3,3,1,2,2,165
+2020-02-13,4,5,1,0,0,NA,5,5,1,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,19,Male,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,3,1,1,2,324
+2020-02-13,NA,NA,1,2,4,NA,NA,NA,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,Female,mid,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,2,1,1,3,110
+2020-02-13,NA,NA,0,1,3,NA,NA,NA,4,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,2,1,1,3,67
+2020-02-13,NA,NA,1,2,2,NA,NA,NA,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,3,234
+2020-02-13,NA,NA,0,1,1,NA,NA,NA,2,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,3,109
+2020-02-13,NA,NA,2,2,1,NA,NA,NA,3,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,3,278
+2020-02-13,NA,NA,3,5,5,NA,NA,NA,3,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,44,Female,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,2,4,3,3,3,74
+2020-02-13,NA,NA,0,0,1,NA,NA,NA,5,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39,Male,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,2,3,1,1,3,181
+2020-02-13,NA,NA,0,0,0,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,38,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,2,1,1,3,96
+2020-02-13,NA,NA,0,0,4,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,3,254
+2020-02-13,NA,NA,4,4,3,NA,NA,NA,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,5,3,3,3,3,273
+2020-02-13,NA,NA,1,2,3,NA,NA,NA,3,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Male,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,3,102
+2020-02-13,NA,NA,1,3,4,NA,NA,NA,3,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,37,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,3,312
+2020-02-13,NA,NA,1,2,2,NA,NA,NA,3,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,Female,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,3,180
+2020-02-13,NA,NA,3,3,3,NA,NA,NA,3,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,42,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,2,2,3,1,3,144
+2020-02-13,NA,NA,1,2,2,NA,NA,NA,4,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,41,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,3,304
+2020-02-13,NA,NA,1,1,5,NA,NA,NA,2,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,1,5,1,1,1,3,76
+2020-02-13,NA,NA,3,3,3,NA,NA,NA,4,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,43,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,2,4,3,3,3,325
+2020-02-13,NA,NA,0,1,3,NA,NA,NA,1,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,3,81
+2020-02-13,NA,NA,3,4,4,NA,NA,NA,4,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,65,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,4,2,1,1,3,21
+2020-02-13,NA,NA,0,1,3,NA,NA,NA,0,0,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,32,Male,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,1,5,1,1,1,3,150
+2020-02-13,NA,NA,0,1,1,NA,NA,NA,2,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,47,Male,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,4,2,1,1,3,134
+2020-02-13,NA,NA,0,4,1,NA,NA,NA,0,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,Male,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,3,12
+2020-02-13,NA,NA,0,1,1,NA,NA,NA,3,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,47,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,5,2,1,1,3,75
+2020-02-13,NA,NA,1,0,1,NA,NA,NA,2,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,3,164
+2020-02-13,NA,NA,2,4,5,NA,NA,NA,3,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,Female,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,1,3,1,3,1,3,285
+2020-02-13,NA,NA,2,2,2,NA,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,47,Do not wish to disclose,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,2,1,1,3,293
+2020-02-13,NA,NA,2,2,3,NA,NA,NA,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,43,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,2,1,1,3,290
+2020-02-13,NA,NA,0,0,0,NA,NA,NA,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,59,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,3,25
+2020-02-14,NA,NA,NA,3,3,NA,NA,NA,NA,0,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,4,2,1,1,5,85
+2020-02-14,NA,NA,NA,0,0,NA,NA,NA,NA,0,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,41,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,3,1,1,5,211
+2020-02-14,NA,NA,NA,0,1,NA,NA,NA,NA,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,37,Male,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,123
+2020-02-14,NA,NA,NA,2,1,NA,NA,NA,NA,0,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,4,2,1,2,5,161
+2020-02-14,NA,NA,NA,4,5,NA,NA,NA,NA,3,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,38,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,261
+2020-02-14,NA,NA,NA,2,3,NA,NA,NA,NA,2,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,317
+2020-02-14,NA,NA,NA,4,4,NA,NA,NA,NA,3,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,41,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,193
+2020-02-14,NA,NA,NA,2,2,NA,NA,NA,NA,1,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,61,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,4,3,1,1,5,106
+2020-02-14,NA,NA,NA,4,4,NA,NA,NA,NA,4,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39,Female,mid,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,330
+2020-02-14,NA,NA,NA,0,0,NA,NA,NA,NA,0,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,36,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,215
+2020-02-14,NA,NA,NA,3,1,NA,NA,NA,NA,2,NA,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,42,Female,high,conservative,Extremely conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,115
+2020-02-14,NA,NA,NA,3,4,NA,NA,NA,NA,4,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,32,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,89
+2020-02-14,NA,NA,NA,3,4,NA,NA,NA,NA,1,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,60,Female,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,3,4,1,2,5,101
+2020-02-14,NA,NA,NA,2,3,NA,NA,NA,NA,2,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,48,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,34
+2020-02-14,NA,NA,NA,2,2,NA,NA,NA,NA,1,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,3,1,1,5,49
+2020-02-14,NA,NA,NA,2,2,NA,NA,NA,NA,1,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,55,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,173
+2020-02-14,NA,NA,NA,3,1,NA,NA,NA,NA,1,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,168
+2020-02-14,NA,NA,NA,1,1,NA,NA,NA,NA,1,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,43,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,3,3,1,1,5,169
+2020-02-14,NA,NA,NA,1,1,NA,NA,NA,NA,1,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,49,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,3,2,1,5,108
+2020-02-14,NA,NA,NA,2,2,NA,NA,NA,NA,1,NA,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,Male,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,183
+2020-02-14,NA,NA,NA,2,5,NA,NA,NA,NA,3,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,68,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,208
+2020-02-14,NA,NA,NA,1,3,NA,NA,NA,NA,0,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,46,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,289
+2020-02-14,NA,NA,NA,3,3,NA,NA,NA,NA,0,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,60,Female,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,114
+2020-02-14,NA,NA,NA,1,1,NA,NA,NA,NA,2,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,252
+2020-02-14,NA,NA,NA,1,1,NA,NA,NA,NA,1,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,4,3,2,1,5,230
+2020-02-14,NA,NA,NA,2,3,NA,NA,NA,NA,1,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,117
+2020-02-14,NA,NA,NA,2,0,NA,NA,NA,NA,0,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,56,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,4,2,1,1,5,232
+2020-02-14,NA,NA,NA,1,3,NA,NA,NA,NA,0,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,49,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,255
+2020-02-14,NA,NA,NA,2,1,NA,NA,NA,NA,1,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,2,2,3,3,5,292
+2020-02-14,NA,NA,NA,1,4,NA,NA,NA,NA,2,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,159
+2020-02-14,NA,NA,NA,2,3,NA,NA,NA,NA,3,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,59,Female,mid,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,126
+2020-02-14,NA,NA,NA,1,1,NA,NA,NA,NA,0,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,49,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,5,203
+2020-02-14,3,NA,1,1,2,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,4,104
+2020-02-14,3,NA,0,0,NA,NA,NA,4,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,37,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,2,3,3,3,4,295
+2020-02-14,0,NA,NA,NA,NA,NA,NA,4,4,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,Male,high,conservative,Extremely conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,4,200
+2020-02-14,NA,3,NA,NA,NA,NA,4,NA,2,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,2,4,1,3,4,204
+2020-02-14,NA,4,NA,0,NA,NA,4,NA,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,32,Male,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,4,137
+2020-02-14,NA,NA,NA,4,3,NA,4,3,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,48,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,5,1,5,1,1,4,320
+2020-02-14,NA,NA,0,0,0,NA,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,62,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,1,4,1,1,4,90
+2020-02-14,2,NA,NA,NA,NA,NA,NA,4,2,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,Male,high,libertarian,Libertarian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,5,1,1,1,4,286
+2020-02-14,NA,NA,3,4,1,NA,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,48,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,2,4,3,1,4,197
+2020-02-14,4,4,NA,3,NA,NA,NA,NA,2,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,3,4,3,2,4,11
+2020-02-14,NA,3,1,NA,NA,NA,4,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,1,4,1,1,4,201
+2020-02-14,NA,NA,1,2,2,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,4,51
+2020-02-14,2,5,NA,NA,NA,NA,NA,NA,0,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,67,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,4,146
+2020-02-14,4,NA,NA,0,NA,NA,NA,5,3,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,44,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,4,13
+2020-02-14,NA,5,NA,0,NA,NA,3,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,46,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,1,5,2,2,4,329
+2020-02-14,NA,4,NA,1,0,NA,3,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,42,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,4,2,1,2,4,316
+2020-02-14,0,4,0,NA,NA,NA,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,59,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,4,129
+2020-02-14,4,5,NA,NA,NA,NA,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,Male,mid,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,2,4,2,2,4,282
+2020-02-14,NA,3,NA,NA,NA,NA,4,NA,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,60,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,2,4,1,1,4,91
+2020-02-14,NA,NA,3,NA,NA,NA,4,4,NA,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,38,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,4,296
+2020-02-15,2,3,1,NA,NA,NA,NA,NA,NA,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,23,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,3,4,1,1,4,128
+2020-02-15,NA,2,NA,NA,1,NA,5,NA,2,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,51,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,4,68
+2020-02-15,2,2,NA,1,NA,NA,NA,NA,1,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,4,231
+2020-02-15,NA,4,2,5,4,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,59,Female,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,2,1,1,4,323
+2020-02-15,NA,5,3,3,4,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,60,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,4,84
+2020-02-15,5,NA,NA,1,NA,NA,NA,5,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,42,Male,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,4,15
+2020-02-15,NA,NA,0,NA,0,NA,3,4,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,4,26
+2020-02-15,4,3,2,NA,NA,NA,NA,NA,NA,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,2,4,1,1,4,124
+2020-02-19,NA,NA,NA,2,5,NA,NA,NA,2,2,5,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,57,Male,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,1,4,3,1,7,188
+2020-02-19,5,5,NA,5,1,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,Female,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,5,5,3,1,1,8,276
+2020-02-19,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,41,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,1,1,1,9,224
+2020-02-19,3,2,NA,3,1,NA,4,3,4,4,1,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,45,Female,high,conservative,Extremely conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,4,2,1,1,6,214
+2020-02-19,NA,NA,NA,0,1,NA,NA,NA,2,0,0,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,Male,mid,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,7,71
+2020-02-19,3,4,NA,2,3,NA,2,5,2,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,46,Female,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,1,5,1,1,6,63
+2020-02-19,NA,NA,NA,1,1,NA,NA,NA,1,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,2,1,1,7,86
+2020-02-19,4,3,NA,4,3,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,Male,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,4,4,3,3,8,240
+2020-02-19,NA,NA,NA,2,4,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,Male,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,1,4,1,1,9,79
+2020-02-19,1,2,NA,0,0,NA,1,4,0,0,0,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,58,Female,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,5,1,1,1,6,319
+2020-02-19,2,4,NA,1,2,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,3,3,1,1,8,192
+2020-02-19,4,3,NA,2,2,NA,3,4,2,2,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,6,157
+2020-02-19,NA,NA,NA,3,1,NA,NA,NA,3,3,4,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,32,Male,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,4,2,2,2,7,107
+2020-02-19,NA,NA,NA,4,5,NA,NA,NA,3,3,4,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,Female,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,3,4,1,1,7,311
+2020-02-19,NA,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,5,1,5,1,1,9,221
+2020-02-19,3,5,NA,1,0,NA,2,4,1,0,0,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,48,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,2,3,3,2,6,288
+2020-02-19,4,3,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,8,29
+2020-02-19,4,5,NA,3,0,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,43,Male,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,3,4,3,3,8,14
+2020-02-19,NA,NA,NA,3,1,NA,NA,NA,4,1,0,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,48,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,2,1,1,7,162
+2020-02-19,NA,NA,NA,3,4,NA,NA,NA,3,2,4,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,7,222
+2020-02-19,NA,NA,NA,3,2,NA,NA,NA,2,2,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,49,Female,mid,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,7,271
+2020-02-19,NA,NA,NA,3,4,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,47,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,2,4,1,1,9,189
+2020-02-19,NA,NA,NA,4,5,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,51,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,2,4,3,2,9,170
+2020-02-19,4,2,NA,3,3,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,56,Male,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,3,1,1,8,303
+2020-02-19,NA,NA,NA,0,0,NA,NA,NA,2,0,0,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,44,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,7,268
+2020-02-19,1,5,NA,1,3,NA,5,5,2,2,2,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,45,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,6,22
+2020-02-19,NA,NA,NA,1,1,NA,NA,NA,1,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,7,236
+2020-02-19,0,0,NA,2,4,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,55,Male,mid,conservative,Extremely conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,1,5,1,1,1,8,156
+2020-02-19,2,2,NA,3,1,NA,2,3,2,2,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,59,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,3,2,1,3,6,198
+2020-02-19,NA,NA,NA,0,1,NA,NA,NA,1,0,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,41,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,3,3,3,3,7,65
+2020-02-19,NA,NA,NA,2,4,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39,Female,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,9,267
+2020-02-19,5,3,NA,2,4,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,Male,high,libertarian,Libertarian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,4,3,1,1,8,83
+2020-02-19,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,Female,mid,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,4,5,2,1,9,270
+2020-02-19,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,9,121
+2020-02-19,4,3,NA,1,3,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,8,3
+2020-02-19,NA,NA,NA,1,1,NA,NA,NA,2,0,2,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,7,135
+2020-02-19,3,4,NA,3,4,NA,3,4,3,3,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,Female,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,2,3,1,1,6,294
+2020-02-19,5,5,NA,3,1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,53,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,2,3,1,1,8,56
+2020-02-19,NA,NA,NA,2,4,NA,NA,NA,3,1,2,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,37,Male,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,7,40
+2020-02-19,5,4,NA,4,5,NA,5,4,4,4,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,51,Female,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,4,2,1,1,6,305
+2020-02-19,4,3,NA,3,4,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,2,4,1,1,8,243
+2020-02-19,NA,NA,NA,3,4,NA,NA,NA,1,2,3,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,1,4,2,2,7,32
+2020-02-19,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,1,4,1,1,9,253
+2020-02-19,3,4,NA,2,2,NA,4,3,1,2,2,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,2,3,3,3,6,127
+2020-02-19,NA,NA,NA,0,1,NA,NA,NA,2,0,2,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,4,2,2,2,7,59
+2020-02-19,1,4,NA,0,0,NA,5,5,0,1,0,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,32,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,2,1,1,6,313
+2020-02-19,5,5,NA,1,5,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,46,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,1,5,3,3,8,206
+2020-02-19,4,4,NA,1,1,NA,5,4,2,1,1,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,2,1,1,6,8
+2020-02-19,NA,NA,NA,5,5,NA,NA,NA,3,1,1,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,7,46
+2020-02-19,NA,NA,NA,1,0,NA,NA,NA,2,1,0,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,7,279
+2020-02-19,5,5,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,1,5,3,2,8,97
+2020-02-19,4,4,NA,3,3,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,2,3,3,2,8,33
+2020-02-19,NA,NA,NA,3,1,NA,NA,NA,4,0,1,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,65,Female,mid,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,7,242
+2020-02-19,NA,NA,NA,4,2,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,59,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,9,298
+2020-02-19,4,4,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,46,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,8,187
+2020-02-19,NA,NA,NA,1,5,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,43,Female,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,5,1,5,3,1,9,113
+2020-02-19,4,5,NA,3,4,NA,5,5,3,1,4,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,57,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,5,2,4,3,3,6,259
+2020-02-19,NA,NA,NA,2,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,41,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,3,3,1,1,9,38
+2020-02-19,4,5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,4,2,1,1,8,163
+2020-02-19,NA,NA,NA,1,3,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,Male,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,9,291
+2020-02-19,NA,NA,NA,2,3,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,54,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,9,241
+2020-02-19,1,4,NA,1,1,NA,2,4,2,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,Male,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,2,2,1,1,6,195
+2020-02-19,3,3,NA,2,4,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,44,Male,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,8,2
+2020-02-19,NA,NA,NA,0,0,NA,NA,NA,3,0,0,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,32,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,7,4
+2020-02-19,5,5,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,8,257
+2020-02-19,NA,NA,NA,1,2,NA,NA,NA,4,0,1,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Male,mid,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,1,5,1,1,1,7,307
+2020-02-19,4,3,NA,1,0,NA,2,4,1,0,1,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,2,1,1,6,284
+2020-02-19,NA,NA,NA,0,2,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,32,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,9,95
+2020-02-19,NA,NA,NA,0,0,NA,NA,NA,0,0,0,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,68,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,2,5,1,1,7,119
+2020-02-19,NA,NA,NA,0,2,NA,NA,NA,3,1,3,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,7,149
+2020-02-19,3,5,NA,5,2,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,8,50
+2020-02-19,NA,NA,NA,2,4,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,9,328
+2020-02-19,5,5,NA,3,4,NA,5,4,4,2,5,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,52,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,6,153
+2020-02-19,5,5,NA,0,0,NA,5,4,2,0,0,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,48,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,6,105
+2020-02-19,4,3,NA,3,5,NA,3,4,2,1,3,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,46,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,2,4,1,1,6,182
+2020-02-19,4,4,NA,3,3,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,2,2,1,1,8,18
+2020-02-19,NA,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,3,4,1,1,9,36
+2020-02-19,NA,NA,NA,3,2,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,2,2,1,1,9,54
+2020-02-19,5,5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,2,1,1,8,247
+2020-02-19,NA,NA,NA,2,0,NA,NA,NA,1,0,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,62,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,7,69
+2020-02-19,4,5,NA,2,2,NA,3,4,3,2,3,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,37,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,6,218
+2020-02-19,3,4,NA,2,0,NA,4,5,3,0,0,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,56,Male,mid,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,6,61
+2020-02-19,NA,NA,NA,4,3,NA,NA,NA,3,2,3,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,Female,mid,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,7,216
+2020-02-19,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,2,2,1,1,9,53
+2020-02-19,0,3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,Male,mid,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,3,1,1,8,48
+2020-02-19,NA,NA,NA,0,4,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,36,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,9,99
+2020-02-19,4,4,NA,4,4,NA,4,4,3,2,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,37,Female,mid,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,2,4,3,2,6,145
+2020-02-19,NA,NA,NA,1,1,NA,NA,NA,2,0,0,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,52,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,4,1,1,7,132
+2020-02-20,2,3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,3,4,1,1,8,160
+2020-02-20,4,5,NA,3,2,NA,4,4,4,2,1,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,38,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,2,3,1,1,6,256
+2020-02-20,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,49,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,5,3,3,1,1,9,327
+2020-02-20,NA,NA,NA,3,5,NA,NA,NA,5,0,4,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,3,3,3,1,1,7,7
+2020-02-20,NA,NA,NA,0,2,NA,NA,NA,3,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,55,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,7,318
+2020-02-20,3,4,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,42,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,3,4,3,3,8,78
+2020-02-20,3,3,NA,1,4,NA,3,3,1,0,4,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,41,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,4,2,4,1,1,6,70
+2020-02-20,2,2,NA,4,4,NA,5,2,2,1,2,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,47,Female,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,6,47
+2020-02-20,5,4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,47,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,8,152
+2020-02-20,2,4,NA,3,4,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,59,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,3,1,1,8,235
+2020-02-20,NA,NA,NA,1,4,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,Male,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,9,58
+2020-02-20,NA,NA,NA,2,4,NA,NA,NA,3,3,3,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,68,Male,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,2,1,1,7,249
+2020-02-20,1,1,NA,3,3,NA,2,0,0,0,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,43,Male,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,4,2,1,1,6,269
+2020-02-20,4,3,NA,2,3,NA,1,1,1,0,4,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,1,1,1,6,172
+2020-02-20,2,4,NA,3,1,NA,3,5,3,2,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,44,Female,mid,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,2,3,3,1,6,10
+2020-02-20,NA,NA,NA,4,3,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,46,Female,mid,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,2,1,1,9,186
+2020-02-20,4,4,NA,3,4,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,8,9
+2020-02-20,3,5,NA,5,4,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,62,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,8,41
+2020-02-20,NA,NA,NA,2,0,NA,NA,NA,3,1,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,2,2,1,1,7,39
+2020-02-20,3,4,NA,1,3,NA,1,4,3,3,4,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,Male,high,conservative,Extremely conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,6,28
+2020-02-21,NA,NA,NA,3,1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,57,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,2,3,3,1,1,9,82
+2020-02-21,NA,NA,NA,4,4,NA,NA,NA,3,4,4,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,47,Female,high,conservative,Extremely conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t1,NA,NA,NA,NA,NA,7,310
+2020-04-28,NA,NA,NA,4,5,NA,NA,NA,NA,1,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,5,261
+2020-04-28,NA,NA,NA,3,1,NA,NA,NA,NA,0,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,36,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,4,2,1,2,5,161
+2020-04-28,NA,NA,NA,0,0,NA,NA,NA,NA,0,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,42,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,3,1,1,5,211
+2020-04-28,NA,NA,NA,3,4,NA,NA,NA,NA,0,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,60,Female,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,3,4,1,2,5,101
+2020-04-28,NA,NA,NA,1,1,NA,NA,NA,NA,0,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,43,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,3,3,1,1,5,169
+2020-04-28,NA,NA,NA,1,1,NA,NA,NA,NA,2,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,4,3,2,1,5,230
+2020-04-28,NA,NA,NA,3,3,NA,NA,NA,NA,4,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,68,Female,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,5,208
+2020-04-28,NA,NA,NA,1,1,NA,NA,NA,NA,0,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,Male,mid,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,5,168
+2020-04-29,NA,NA,NA,2,1,NA,NA,NA,NA,1,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,2,2,3,3,5,292
+2020-04-29,3,2,NA,4,2,NA,3,1,3,0,0,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,45,Female,high,conservative,Extremely conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,4,2,1,1,6,214
+2020-04-29,1,3,NA,0,0,NA,1,4,0,0,0,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,58,Female,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,5,1,1,1,6,319
+2020-04-29,3,5,NA,2,0,NA,2,4,2,0,0,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,48,Male,mid,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,2,3,3,2,6,288
+2020-04-29,NA,NA,3,5,4,NA,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,49,Female,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,2,4,3,1,4,197
+2020-04-29,5,NA,NA,0,NA,NA,NA,5,0,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,43,Male,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,4,15
+2020-04-29,4,4,NA,2,3,NA,3,3,2,2,2,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,47,Female,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,1,5,1,1,6,63
+2020-04-29,NA,NA,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,41,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,1,1,1,9,224
+2020-04-29,NA,NA,4,4,3,NA,NA,NA,3,4,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,5,3,3,3,3,273
+2020-04-29,NA,NA,NA,2,3,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,Male,mid,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,1,4,1,1,9,79
+2020-04-29,1,4,NA,1,1,NA,3,4,2,1,0,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,Male,mid,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,2,2,1,1,6,195
+2020-04-29,NA,NA,1,2,1,NA,NA,NA,3,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,3,234
+2020-04-29,3,4,1,2,4,NA,4,3,3,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,2,44
+2020-04-29,4,3,3,3,4,NA,4,4,3,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,60,Male,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,3,4,1,1,2,77
+2020-04-29,NA,NA,1,1,4,NA,NA,NA,0,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,Male,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,1,5,1,1,1,3,150
+2020-04-29,3,3,NA,1,1,NA,1,3,3,1,0,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Male,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,6,157
+2020-04-29,NA,NA,0,0,1,NA,NA,NA,4,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39,Male,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,2,3,1,1,3,181
+2020-04-29,4,3,1,3,3,NA,4,4,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,3,3,1,1,2,226
+2020-04-29,NA,NA,NA,1,5,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,44,Female,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,5,1,5,3,1,9,113
+2020-04-29,NA,NA,NA,4,2,NA,5,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,48,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,5,1,5,1,1,4,320
+2020-04-29,NA,NA,0,0,0,NA,NA,NA,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,38,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,2,1,1,3,96
+2020-04-29,2,5,NA,1,3,NA,5,5,2,2,3,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,45,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,6,22
+2020-04-29,NA,NA,NA,3,1,NA,NA,NA,NA,1,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,5,252
+2020-04-29,NA,3,NA,NA,NA,NA,3,NA,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,60,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,2,4,1,1,4,91
+2020-04-29,5,5,4,4,5,NA,5,5,4,4,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,44,Female,high,conservative,Extremely conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,2,209
+2020-04-29,4,4,NA,3,4,NA,3,4,2,4,3,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,Female,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,2,3,1,1,6,294
+2020-04-29,4,5,1,1,2,NA,4,4,3,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,Male,mid,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,3,2,2,2,19
+2020-04-29,NA,NA,NA,0,0,NA,NA,NA,1,0,0,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39,Male,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,4,2,2,2,7,59
+2020-04-29,NA,NA,NA,2,1,NA,NA,NA,4,1,1,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,48,Female,mid,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,2,1,1,7,162
+2020-04-29,NA,NA,NA,3,3,NA,NA,NA,1,2,3,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,Female,mid,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,1,4,2,2,7,32
+2020-04-29,NA,NA,NA,1,1,NA,NA,NA,2,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,7,236
+2020-04-29,4,4,1,3,0,NA,4,5,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,38,Male,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,2,5
+2020-04-29,NA,NA,NA,4,2,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,59,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,9,298
+2020-04-29,4,5,1,1,1,NA,4,5,3,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,26,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,2,4,3,1,2,308
+2020-04-29,NA,4,NA,1,NA,NA,2,NA,1,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,46,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,1,5,2,2,4,329
+2020-04-29,1,4,NA,0,0,NA,5,5,0,1,0,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,2,1,1,6,313
+2020-04-29,NA,NA,NA,2,5,NA,NA,NA,3,2,4,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,57,Male,mid,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,1,4,3,1,7,188
+2020-04-29,4,5,NA,3,5,NA,5,4,4,3,5,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,51,Female,mid,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,4,2,1,1,6,305
+2020-04-29,5,5,2,3,1,NA,5,5,3,0,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,47,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,3,3,1,2,2,165
+2020-04-29,NA,NA,NA,4,2,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,3,4,1,1,9,36
+2020-04-29,NA,NA,2,4,5,NA,NA,NA,4,4,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,Female,mid,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,1,3,1,3,1,3,285
+2020-04-29,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,Female,mid,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,4,5,2,1,9,270
+2020-04-29,NA,4,NA,2,0,NA,3,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,42,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,4,2,1,2,4,316
+2020-04-29,NA,NA,NA,3,3,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,57,Female,mid,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,3,1,1,9,82
+2020-04-29,3,3,3,NA,NA,NA,NA,NA,NA,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,2,4,1,1,4,124
+2020-04-29,NA,NA,NA,2,2,NA,NA,NA,2,2,4,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,32,Male,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,4,2,2,2,7,107
+2020-04-29,NA,NA,NA,4,4,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,51,Female,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,2,4,3,2,9,170
+2020-04-29,4,4,1,2,1,NA,4,5,3,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,Female,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,2,3,3,1,2,30
+2020-04-29,4,2,2,1,5,NA,4,3,2,0,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,51,Male,mid,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,2,275
+2020-04-29,4,3,3,5,5,NA,4,4,2,4,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,55,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,5,3,5,2,2,2,171
+2020-04-29,NA,NA,2,5,5,NA,NA,NA,4,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,44,Female,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,2,4,3,3,3,74
+2020-04-29,NA,NA,NA,1,0,NA,NA,NA,NA,0,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,56,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,4,2,1,1,5,232
+2020-04-29,NA,NA,NA,1,1,NA,NA,NA,NA,0,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,49,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,5,255
+2020-04-29,5,5,NA,3,4,NA,5,4,1,1,4,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,57,Female,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,5,2,4,3,3,6,259
+2020-04-29,NA,NA,NA,1,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,41,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,3,3,1,1,9,38
+2020-04-29,NA,NA,NA,0,0,NA,NA,NA,0,0,0,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,68,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,2,5,1,1,7,119
+2020-04-29,NA,NA,NA,3,3,NA,NA,NA,3,2,3,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,Female,mid,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,7,216
+2020-04-29,5,5,0,0,5,NA,5,5,2,2,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,3,3,1,3,2,297
+2020-04-29,4,5,1,0,0,NA,5,5,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,38,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,3,1,1,2,324
+2020-04-29,4,5,1,0,0,NA,5,4,1,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,60,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,3,3,2,2,2,20
+2020-04-29,NA,NA,2,2,3,NA,NA,NA,2,3,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,43,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,2,1,1,3,290
+2020-04-29,NA,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,1,4,1,1,9,253
+2020-04-29,3,4,NA,1,1,NA,5,5,2,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,2,1,1,6,8
+2020-04-29,NA,NA,NA,5,1,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,49,Male,mid,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,5,3,3,1,1,9,327
+2020-04-29,2,4,2,2,1,NA,5,5,4,1,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,37,Male,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,3,1,2,2,239
+2020-04-29,NA,NA,NA,1,1,NA,NA,NA,NA,2,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,49,Male,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,3,2,1,5,108
+2020-04-29,NA,NA,NA,3,3,NA,NA,NA,NA,4,NA,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,42,Female,mid,conservative,Extremely conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,5,115
+2020-04-29,NA,NA,NA,2,3,NA,NA,NA,2,2,3,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,Male,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,7,222
+2020-04-29,NA,NA,NA,3,3,NA,NA,NA,NA,3,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,32,Male,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,5,89
+2020-04-29,NA,NA,1,2,2,NA,NA,NA,2,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,2,1,1,3,67
+2020-04-29,5,5,1,3,2,NA,5,5,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,58,Female,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,2,174
+2020-04-29,NA,NA,NA,3,4,NA,NA,NA,NA,0,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,4,2,1,1,5,85
+2020-04-29,NA,NA,NA,3,0,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,Female,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,5,1,5,1,1,9,221
+2020-04-29,NA,NA,2,2,3,NA,NA,NA,4,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,42,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,2,2,3,1,3,144
+2020-04-29,NA,NA,3,4,2,NA,NA,NA,4,3,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,Male,mid,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,3,278
+2020-04-29,NA,NA,NA,2,4,NA,NA,NA,5,0,0,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Male,mid,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,1,5,1,1,1,7,307
+2020-04-29,3,5,NA,3,2,NA,4,5,3,2,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,44,Female,mid,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,2,3,3,1,6,10
+2020-04-29,NA,NA,NA,1,0,NA,NA,NA,1,0,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,44,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,7,268
+2020-04-29,4,3,3,NA,NA,NA,NA,NA,NA,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,36,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,3,4,1,1,4,128
+2020-04-29,NA,NA,1,2,0,NA,NA,NA,3,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,Female,mid,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,3,180
+2020-04-29,2,3,0,2,3,NA,4,4,2,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,4,2,1,1,2,287
+2020-04-29,4,3,NA,1,1,NA,4,3,3,2,1,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,2,3,3,3,6,127
+2020-04-29,NA,NA,0,NA,0,NA,4,4,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,4,26
+2020-04-29,2,2,2,2,4,NA,4,4,2,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,67,Female,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,2,92
+2020-04-29,NA,NA,NA,3,2,NA,NA,NA,1,2,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,68,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,2,1,1,7,249
+2020-04-29,NA,NA,NA,1,1,NA,NA,NA,4,1,2,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,Female,mid,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,7,149
+2020-04-29,3,NA,0,1,NA,NA,NA,5,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,37,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,2,3,3,3,4,295
+2020-04-29,3,2,0,1,1,NA,4,3,3,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,47,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,2,228
+2020-04-29,3,5,NA,0,0,NA,5,2,0,0,0,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,48,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,6,105
+2020-04-29,3,4,1,2,3,NA,4,4,0,0,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Female,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,2,3,1,1,2,98
+2020-04-29,NA,NA,NA,4,3,NA,NA,NA,NA,2,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,61,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,4,3,1,1,5,106
+2020-04-29,4,5,NA,3,NA,NA,NA,NA,2,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,3,4,3,2,4,11
+2020-04-29,NA,NA,0,0,2,NA,NA,NA,3,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,47,Male,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,4,2,1,1,3,134
+2020-04-29,NA,NA,NA,1,1,NA,NA,NA,1,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,2,1,1,7,86
+2020-04-29,2,NA,NA,NA,NA,NA,NA,4,2,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,29,Male,high,libertarian,Libertarian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,5,1,1,1,4,286
+2020-04-29,NA,NA,0,0,0,NA,3,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,62,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,1,4,1,1,4,90
+2020-04-29,NA,NA,NA,2,3,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,48,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,2,4,1,1,9,189
+2020-04-29,NA,NA,NA,4,4,NA,NA,NA,NA,4,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,41,Female,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,5,193
+2020-04-29,1,3,1,NA,NA,NA,NA,NA,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,60,Male,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,4,129
+2020-04-29,4,3,NA,3,4,NA,1,2,0,1,2,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,46,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,2,4,1,1,6,182
+2020-04-29,NA,NA,1,1,4,NA,NA,NA,1,1,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,Male,mid,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,1,5,1,1,1,3,76
+2020-04-29,3,4,NA,1,4,NA,3,4,1,1,3,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,41,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,2,4,1,1,6,70
+2020-04-29,4,3,1,3,4,NA,4,3,3,3,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,Female,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,2,274
+2020-04-29,NA,NA,2,2,2,NA,NA,NA,2,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,47,Do not wish to disclose,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,2,1,1,3,293
+2020-04-29,5,5,NA,2,0,NA,3,5,4,0,0,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,56,Male,mid,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,6,61
+2020-04-29,NA,NA,NA,4,1,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,24,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,2,2,1,1,9,54
+2020-04-29,2,3,NA,3,1,NA,3,3,2,2,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,59,Female,mid,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,3,2,1,3,6,198
+2020-04-29,NA,4,1,5,4,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,59,Female,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,2,1,1,4,323
+2020-04-29,NA,NA,0,1,3,NA,NA,NA,2,1,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,Male,mid,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,3,81
+2020-04-29,3,NA,1,1,2,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,4,104
+2020-04-29,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,32,Male,mid,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,9,95
+2020-04-29,NA,NA,3,4,4,NA,NA,NA,4,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,65,Female,mid,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,4,2,1,1,3,21
+2020-04-29,4,4,NA,1,2,NA,1,4,1,1,1,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,2,1,1,6,284
+2020-04-29,0,4,2,3,1,NA,0,3,3,0,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,Male,mid,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,1,5,1,1,1,2,191
+2020-04-29,NA,NA,NA,2,1,NA,NA,NA,3,1,1,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,52,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,4,1,1,7,132
+2020-04-29,NA,NA,2,2,3,NA,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,51,Male,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,4,51
+2020-04-29,NA,2,NA,NA,3,NA,5,NA,3,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,51,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,4,68
+2020-04-29,NA,NA,NA,4,4,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,39,Female,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,9,267
+2020-04-29,NA,NA,NA,2,5,NA,NA,NA,4,0,5,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,3,3,1,1,7,7
+2020-04-29,4,4,NA,3,4,NA,5,4,3,2,3,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,38,Female,mid,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,2,4,3,2,6,145
+2020-04-29,NA,NA,NA,0,1,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,25,Male,mid,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,2,2,1,1,9,53
+2020-04-30,4,5,NA,NA,NA,NA,NA,NA,4,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,Male,mid,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,2,4,2,2,4,282
+2020-04-30,NA,4,2,2,4,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,61,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,4,84
+2020-04-30,NA,NA,1,2,5,NA,NA,NA,3,2,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,Female,mid,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,2,1,1,3,110
+2020-04-30,1,1,NA,2,2,NA,2,0,1,1,2,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,44,Male,high,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,4,2,1,1,6,269
+2020-04-30,NA,4,1,NA,NA,NA,4,NA,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,1,4,1,1,4,201
+2020-04-30,4,NA,NA,3,NA,NA,NA,5,2,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,44,Female,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,NA,NA,NA,NA,NA,4,13
+2020-04-30,NA,NA,NA,1,1,NA,NA,NA,NA,1,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,3,1,1,5,49
+2020-04-30,NA,3,NA,NA,NA,NA,5,NA,4,1,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,Female,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,2,4,1,3,4,204
+2020-04-30,NA,NA,1,1,1,NA,NA,NA,2,1,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,47,Female,high,libertarian,Libertarian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,5,2,1,1,3,75
+2020-04-30,NA,NA,4,4,3,NA,NA,NA,4,3,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,43,Male,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,2,4,3,3,3,325
+2020-04-30,NA,NA,NA,3,1,NA,NA,NA,3,0,1,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,27,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,2,2,1,1,7,39
+2020-04-30,NA,NA,NA,4,3,NA,NA,NA,3,2,4,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,Female,mid,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,3,4,1,1,7,311
+2020-04-30,5,4,NA,3,2,NA,5,4,4,2,2,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,38,Female,mid,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,2,3,1,1,6,256
+2020-05-02,4,4,NA,4,4,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,2,3,3,2,8,33
+2020-05-02,5,5,NA,2,3,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,1,5,3,2,8,97
+2020-05-02,3,5,NA,1,3,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,33,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,3,3,1,1,8,192
+2020-05-02,5,5,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,30,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,2,1,1,8,247
+2020-05-03,3,4,NA,3,4,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,59,Female,mid,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,3,1,1,8,235
+2020-05-03,3,4,NA,1,0,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,42,Male,mid,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,3,4,3,3,8,78
+2020-05-03,NA,NA,NA,2,4,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,46,Female,mid,conservative,Conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,2,1,1,9,186
+2020-05-04,2,1,NA,2,3,NA,NA,NA,NA,NA,NA,NA,NA,4,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,34,Male,mid,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,4,4,3,3,8,240
+2020-05-04,NA,NA,NA,1,0,NA,NA,NA,1,1,2,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,41,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,3,3,3,3,7,65
+2020-05-04,5,3,NA,2,2,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,36,Female,mid,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,2,4,1,1,8,243
+2020-05-04,2,4,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,38,Male,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,3,4,1,1,8,160
+2020-05-07,3,3,NA,1,3,NA,1,1,1,0,3,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,Male,high,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,1,1,1,6,172
+2020-05-09,5,3,NA,2,4,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,28,Male,high,libertarian,Libertarian,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,4,3,1,1,8,83
+2020-05-09,0,0,NA,3,5,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,55,Male,mid,conservative,Extremely conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,1,5,1,1,1,8,156
+2020-05-09,4,5,NA,1,2,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,46,Female,high,liberal,Extremely liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,1,5,3,3,8,206
+2020-05-09,3,3,NA,2,3,NA,NA,NA,NA,NA,NA,NA,NA,1,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,56,Male,high,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,3,1,1,8,303
+2020-05-09,4,5,NA,3,0,NA,NA,NA,NA,NA,NA,NA,NA,3,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,43,Male,mid,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,4,3,4,3,3,8,14
+2020-05-09,5,5,NA,5,3,NA,NA,NA,NA,NA,NA,NA,NA,5,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,35,Female,mid,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,5,5,3,1,1,8,276
+2020-05-09,4,4,NA,2,3,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,50,Male,mid,conservative,Slightly conservative,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,2,2,1,1,8,18
+2020-05-09,2,3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,40,Female,high,liberal,Slightly liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,4,2,1,1,8,163
+2020-05-09,1,3,NA,0,0,NA,NA,NA,NA,NA,NA,NA,NA,0,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,31,Male,mid,moderate,Moderate,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,2,3,3,1,1,8,48
+2020-05-10,4,4,NA,2,1,NA,NA,NA,NA,NA,NA,NA,NA,2,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,53,Male,high,liberal,Liberal,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,t2,3,2,3,1,1,8,56
+2020-03-12,4,4,1,5,4,0,5,5,5,4,4,4,5,5,5,5,3,4,4,5,5,5,5,4,4,4,64,Male,high,moderate,Moderate,5,5,5,5,7,2,7,5,7,7,7,5,4,5,1,1,5,7,5,t2,2,3,2,1,1,1,72
+2020-03-12,3,3,3,2,3,1,3,3,4,2,2,5,3,3,3,4,2,2,2,4,3,3,2,4,4,4,28,Male,mid,moderate,Moderate,4,3,3,5,3,5,4,4,5,7,5,4,4,4,3,3,4,3,5,t2,3,2,3,1,1,1,238
+2020-03-12,3,3,1,3,1,0,2,3,2,1,1,4,4,2,4,1,3,3,1,3,2,4,2,4,4,4,32,Male,mid,moderate,Moderate,2,3,1,5,5,5,3,2,7,4,5,4,3,2,3,3,3,3,2,t2,3,3,3,1,1,1,23
+2020-03-12,3,3,1,1,2,0,2,4,3,0,2,4,5,4,2,1,3,5,2,3,1,2,2,3,4,3,28,Male,mid,conservative,Conservative,4,2,2,7,7,7,7,2,7,7,7,7,7,5,1,1,2,4,5,t2,3,4,2,1,1,1,155
+2020-03-12,5,5,0,0,0,0,5,5,1,0,0,5,5,1,1,0,5,5,5,4,3,1,4,5,5,5,37,Female,mid,liberal,Extremely liberal,2,1,1,7,7,2,2,1,7,7,7,2,1,1,7,5,1,1,1,t2,4,1,5,1,1,1,250
+2020-03-12,5,5,2,1,3,0,5,5,5,5,3,5,5,5,5,2,0,3,2,5,4,4,1,4,5,5,27,Male,high,moderate,Moderate,5,2,5,3,7,2,7,1,7,1,7,1,7,4,1,1,1,7,1,t2,2,4,2,2,2,1,43
+2020-03-12,3,3,0,1,3,0,3,3,2,1,4,5,4,2,5,1,3,4,3,4,2,4,3,4,5,4,31,Female,high,liberal,Liberal,3,2,4,5,7,1,3,4,5,5,5,2,2,4,5,3,2,2,2,t2,2,4,2,1,1,1,245
+2020-03-12,0,1,3,3,3,0,2,4,5,3,3,4,3,5,5,0,1,1,1,4,3,4,4,2,2,2,38,Male,mid,conservative,Conservative,5,4,4,2,5,4,4,5,7,2,4,4,5,5,1,2,3,3,5,t2,5,1,5,1,1,1,258
+2020-03-12,4,3,2,3,4,0,4,3,3,1,5,5,5,2,4,1,1,3,1,4,1,4,2,5,5,5,45,Male,high,conservative,Conservative,3,4,4,5,3,4,5,7,7,7,5,3,7,7,1,2,2,7,1,t2,4,1,4,1,1,1,225
+2020-03-12,1,5,1,5,5,0,5,3,2,0,2,4,5,3,4,5,2,5,1,5,0,0,3,5,5,5,41,Male,mid,liberal,Liberal,4,5,4,7,7,7,7,1,4,7,7,5,4,3,3,7,1,7,2,t2,2,4,1,1,1,1,31
+2020-03-12,2,5,0,5,5,0,5,2,3,0,4,5,5,4,4,5,3,5,4,5,3,5,0,5,5,4,37,Female,mid,liberal,Slightly liberal,4,5,5,5,7,5,7,1,7,7,7,4,4,2,2,7,1,7,2,t2,2,4,1,1,1,1,272
+2020-03-12,3,3,1,1,1,0,5,4,3,1,0,5,5,1,4,1,1,2,2,3,2,4,0,3,4,3,73,Female,high,conservative,Conservative,3,3,2,7,7,4,4,2,7,7,5,1,1,2,3,4,3,2,2,t2,2,3,4,1,1,1,94
+2020-03-12,3,3,2,3,3,0,3,3,3,4,1,4,4,2,4,5,4,3,1,1,0,3,3,4,5,4,40,Male,high,conservative,Extremely conservative,3,3,2,4,5,7,5,5,7,5,5,5,5,4,1,1,3,5,7,t2,3,4,2,1,1,1,210
+2020-03-12,3,5,4,3,2,0,3,5,3,2,1,3,5,4,4,0,5,5,2,4,1,4,3,5,5,4,55,Male,mid,moderate,Moderate,5,4,2,4,7,7,5,2,7,7,5,2,5,4,1,1,1,4,1,t2,2,4,2,1,1,1,205
+2020-03-12,4,3,1,3,2,0,3,3,1,1,1,4,3,1,3,3,3,2,3,4,3,3,4,5,5,5,59,Female,mid,moderate,Moderate,3,4,3,5,5,4,5,3,7,7,5,5,1,2,2,2,2,5,4,t2,5,2,4,1,1,1,229
+2020-03-12,3,2,1,2,2,0,2,2,2,1,2,2,4,2,4,3,0,3,0,2,0,2,3,4,5,4,76,Male,mid,conservative,Conservative,2,3,4,4,5,7,4,4,7,5,5,4,2,4,5,2,5,5,4,t2,3,4,2,1,1,1,141
+2020-03-12,3,4,3,3,5,0,4,4,2,3,4,5,4,2,4,4,0,4,0,3,3,2,4,5,5,5,44,Female,mid,conservative,Conservative,2,4,5,7,5,5,5,5,7,5,5,2,3,5,7,1,4,3,7,t2,2,3,2,1,1,1,277
+2020-03-12,4,4,2,2,3,0,5,1,3,2,0,5,4,3,3,5,5,5,2,3,3,3,1,4,5,5,39,Female,mid,conservative,Slightly conservative,2,4,4,7,7,7,7,5,7,7,5,3,5,7,7,2,2,5,5,t2,1,5,1,1,1,1,299
+2020-03-12,3,3,0,1,3,0,0,3,1,0,1,2,3,1,3,1,0,1,1,3,3,1,3,4,5,4,45,Female,high,conservative,Slightly conservative,3,4,3,4,3,5,5,4,5,7,7,2,3,5,2,1,2,5,3,t2,2,4,2,1,1,1,280
+2020-03-13,3,5,4,5,5,0,4,4,4,2,4,5,4,4,3,2,3,4,2,4,2,5,3,3,5,4,45,Female,mid,conservative,Conservative,4,4,4,5,7,7,7,5,7,5,7,5,4,7,1,2,4,5,4,t2,2,4,2,1,1,1,45
+2020-03-13,5,2,0,1,1,0,4,2,3,2,1,3,0,3,3,0,4,4,3,3,3,3,4,4,4,1,29,Male,high,liberal,Slightly liberal,4,4,2,7,5,3,2,2,7,7,4,5,2,5,7,5,4,5,2,t2,2,3,2,1,1,1,122
+2020-03-13,4,4,3,4,5,0,3,4,4,4,2,4,4,3,5,5,4,4,4,3,2,4,4,5,5,5,55,Male,mid,conservative,Conservative,4,4,4,7,5,5,7,7,7,7,7,7,7,7,3,1,4,5,7,t2,2,3,2,1,1,1,219
+2020-03-13,3,2,1,1,1,0,2,3,2,1,3,5,3,4,1,2,1,2,3,2,1,1,2,4,5,3,39,Female,mid,liberal,Extremely liberal,4,3,4,3,7,3,2,4,7,1,4,2,4,5,4,3,3,4,2,t2,5,1,5,1,1,1,1
+2020-03-13,4,4,5,5,3,0,4,4,4,4,3,5,4,4,4,3,4,4,5,4,4,4,4,5,4,4,33,Male,high,conservative,Slightly conservative,4,4,5,7,7,5,5,5,7,7,7,7,4,2,5,4,7,5,5,t2,4,5,4,1,1,1,147
+2020-03-13,4,2,4,5,2,0,3,4,2,2,1,3,5,1,4,1,4,5,1,5,2,5,4,5,5,5,45,Male,mid,conservative,Conservative,3,5,4,5,7,7,7,4,7,7,5,7,2,3,7,2,3,5,4,t2,4,2,5,1,1,1,143
+2020-03-13,4,5,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,5,4,4,54,Female,high,liberal,Slightly liberal,5,5,5,5,7,5,7,5,5,5,7,5,5,7,5,7,5,5,4,t2,5,5,5,3,3,1,300
+2020-03-13,4,5,0,0,4,0,5,5,1,0,0,5,2,1,5,0,5,5,5,4,2,0,3,5,5,3,32,Male,mid,conservative,Slightly conservative,2,1,1,7,7,2,1,1,7,7,2,1,3,2,2,7,1,1,5,t2,1,5,1,1,1,1,116
+2020-03-13,4,5,2,2,1,0,5,5,3,1,1,5,5,2,5,0,4,4,5,4,3,3,3,5,5,5,41,Male,high,liberal,Extremely liberal,3,2,3,7,7,2,3,2,7,5,7,3,1,2,7,7,3,1,2,t2,2,2,3,1,1,1,262
+2020-03-13,3,4,1,2,1,0,4,4,4,2,1,5,4,3,5,1,3,3,3,3,2,3,4,5,5,5,36,Male,high,liberal,Liberal,4,3,4,5,5,4,4,2,7,7,4,5,1,3,3,3,5,4,3,t2,2,3,3,1,1,1,139
+2020-03-13,5,5,0,0,1,0,0,5,0,0,1,5,5,0,4,0,5,5,5,5,0,5,3,5,5,5,33,Female,mid,liberal,Extremely liberal,1,1,2,3,7,1,1,3,7,1,7,1,1,3,1,1,1,1,4,t2,2,5,2,1,1,1,151
+2020-03-13,4,4,0,3,2,0,1,2,2,2,1,5,4,1,3,1,2,3,2,2,0,2,2,5,5,5,38,Female,high,liberal,Slightly liberal,2,4,3,4,7,3,4,4,7,7,5,2,2,3,5,2,3,3,3,t2,2,5,1,1,1,1,321
+2020-03-13,2,5,1,1,1,0,3,5,1,1,1,3,5,1,2,0,3,4,4,3,1,3,1,4,4,4,52,Male,high,liberal,Liberal,2,2,2,4,7,3,4,2,7,4,7,2,1,2,3,3,3,4,1,t2,2,4,2,1,1,1,331
+2020-03-13,4,4,1,1,3,0,4,4,2,3,1,4,5,2,3,0,3,3,3,3,2,3,1,2,2,2,37,Male,high,liberal,Slightly liberal,2,2,4,7,7,3,4,5,5,7,4,5,5,5,2,3,5,5,4,t2,4,2,3,1,1,1,24
+2020-03-13,3,5,4,2,4,0,5,5,4,4,4,5,5,2,4,5,4,5,3,4,4,4,4,4,4,5,55,Male,mid,conservative,Conservative,4,3,2,7,7,5,5,5,7,7,7,7,7,5,2,7,2,1,5,t2,1,5,1,1,1,1,315
+2020-03-13,3,5,1,0,0,0,3,5,2,0,0,3,4,2,3,0,1,1,1,3,1,5,5,4,5,5,36,Male,high,conservative,Slightly conservative,2,1,1,2,7,5,5,1,7,5,7,2,4,2,1,2,3,4,3,t2,2,5,2,1,1,1,196
+2020-03-13,4,2,1,2,1,0,3,3,1,2,1,4,4,2,4,0,2,2,3,3,1,3,3,5,5,5,36,Female,mid,conservative,Slightly conservative,2,4,4,5,7,5,5,2,7,5,5,4,3,3,5,3,3,5,2,t2,2,3,2,1,1,1,202
+2020-03-13,2,3,0,2,3,0,0,5,4,4,2,4,4,2,3,0,3,3,2,1,1,1,1,4,2,2,33,Male,high,conservative,Slightly conservative,4,4,5,2,4,5,7,4,7,7,3,2,5,1,2,1,4,5,5,t2,4,1,4,1,1,1,207
+2020-03-13,4,3,0,1,3,0,0,3,2,1,3,4,3,2,2,0,1,1,1,3,1,1,2,5,5,5,33,Female,mid,liberal,Extremely liberal,4,2,4,4,7,1,3,4,7,4,3,3,3,4,5,1,2,5,3,t2,2,5,2,1,1,1,62
+2020-03-13,5,5,3,3,3,0,5,4,3,3,3,5,5,4,5,2,4,5,4,5,4,5,4,5,5,5,47,Male,high,liberal,Slightly liberal,4,4,4,7,7,3,4,4,7,7,7,3,7,4,5,5,3,4,4,t2,4,2,4,1,1,1,140
+2020-03-13,3,2,1,3,2,0,3,4,2,1,2,5,5,0,3,0,1,5,2,4,2,4,4,5,5,5,57,Female,mid,liberal,Slightly liberal,1,3,4,7,7,2,5,4,7,7,7,2,2,4,3,5,2,3,4,t2,3,4,2,1,1,1,306
+2020-03-13,4,5,2,2,3,0,5,4,3,2,2,5,5,3,3,0,4,4,3,4,1,4,3,3,3,5,47,Male,mid,liberal,Liberal,3,3,4,7,7,3,5,5,5,7,7,4,5,4,2,5,2,5,5,t2,3,1,3,1,1,1,6
+2020-03-13,4,3,0,3,4,1,3,3,1,1,3,4,4,1,4,3,1,3,2,3,2,3,3,5,5,4,39,Male,high,conservative,Conservative,2,2,4,5,7,7,4,7,5,5,5,4,5,5,4,4,5,5,4,t2,2,3,2,1,1,1,309
+2020-03-13,3,2,4,4,4,0,4,3,2,5,3,3,2,2,1,5,1,2,1,3,0,3,1,3,4,3,58,Female,mid,conservative,Slightly conservative,3,4,2,7,4,5,7,5,5,7,5,4,5,7,4,5,3,4,5,t2,3,2,3,1,1,1,35
+2020-03-13,4,1,1,3,3,0,3,2,1,1,4,4,4,1,3,1,2,1,2,4,1,2,3,4,3,4,42,Female,mid,conservative,Conservative,2,4,4,4,5,7,7,5,5,7,5,4,2,4,2,1,4,5,5,t2,2,5,3,1,1,1,190
+2020-03-13,3,5,1,2,2,0,4,5,2,1,2,2,5,2,1,0,3,3,2,5,4,3,3,4,4,4,49,Male,high,conservative,Extremely conservative,3,2,3,4,7,4,4,4,7,3,7,3,5,4,1,1,1,4,5,t2,2,5,2,1,1,1,175
+2020-03-13,4,4,4,3,3,0,4,4,4,3,4,4,5,4,5,3,3,4,3,4,2,4,4,5,5,4,54,Female,high,conservative,Slightly conservative,4,4,3,5,5,5,5,4,7,5,5,7,4,4,3,2,4,7,3,t2,2,4,2,1,1,1,237
+2020-03-13,3,4,2,0,3,0,4,3,2,0,1,4,4,1,3,0,0,4,1,2,1,3,3,4,4,4,65,Male,mid,liberal,Liberal,2,1,2,7,7,4,2,5,5,7,7,4,1,2,5,1,2,2,5,t2,2,2,3,1,1,1,27
+2020-03-13,4,4,0,2,0,0,4,3,1,2,2,3,4,1,4,1,1,2,0,2,0,1,2,4,5,4,32,Female,high,moderate,Moderate,1,2,3,5,4,2,4,4,7,5,4,2,2,4,7,1,1,1,1,t2,5,3,3,1,1,1,314
+2020-03-13,0,0,2,1,3,0,0,3,4,4,2,0,5,3,0,1,4,4,1,1,3,4,3,4,5,4,36,Male,high,conservative,Extremely conservative,4,2,3,4,3,3,4,5,5,4,5,3,7,4,1,1,3,2,7,t2,2,5,1,1,1,1,87
+2020-03-13,3,1,0,2,2,0,3,1,0,0,2,4,1,0,4,0,1,1,0,0,0,3,0,1,5,5,31,Female,high,conservative,Slightly conservative,1,3,4,7,7,3,7,7,7,7,7,5,1,5,4,2,1,2,5,t2,5,2,5,1,1,1,263
+2020-03-13,3,2,1,2,3,0,0,2,2,1,2,2,3,1,3,3,1,2,3,4,1,2,3,4,4,3,66,Female,mid,liberal,Liberal,3,3,4,7,7,5,4,4,7,7,4,3,3,5,4,4,2,4,3,t2,3,2,4,3,1,1,136
+2020-03-13,3,5,2,3,4,0,3,4,3,3,5,5,5,3,4,3,4,4,3,4,1,4,4,5,5,5,57,Female,mid,conservative,Slightly conservative,3,2,5,7,7,5,5,7,7,7,7,4,5,7,4,5,3,5,5,t2,2,4,2,3,1,1,42
+2020-03-13,5,4,1,3,2,0,5,5,3,2,2,5,5,3,4,0,3,4,4,3,2,3,1,4,4,4,24,Male,high,conservative,Conservative,3,3,4,5,5,4,5,2,7,5,4,2,4,3,3,1,3,4,1,t2,4,1,4,1,1,1,251
+2020-03-13,4,3,3,1,3,0,4,2,2,2,2,4,3,1,4,3,3,3,2,3,2,3,2,4,5,5,55,Male,mid,liberal,Slightly liberal,3,2,3,5,7,4,3,4,7,7,5,3,4,4,4,4,2,3,4,t2,4,2,3,1,1,1,177
+2020-03-13,4,4,3,3,4,0,4,3,3,3,4,4,3,3,4,5,3,3,2,3,2,3,4,4,5,5,58,Female,mid,conservative,Conservative,4,3,4,5,7,7,7,5,7,5,5,5,7,5,3,1,2,5,5,t2,2,4,2,1,1,1,130
+2020-03-13,2,4,3,3,3,4,1,4,2,4,4,5,2,3,4,4,3,4,2,2,4,3,3,3,5,3,25,Male,high,conservative,Conservative,3,5,5,5,4,7,2,5,7,3,5,4,4,4,5,1,5,3,5,t2,2,4,2,1,1,1,158
+2020-03-13,4,3,1,1,0,0,4,3,3,0,0,5,4,1,5,1,4,4,1,4,1,4,3,5,5,5,41,Male,high,liberal,Liberal,2,2,2,7,7,3,7,1,7,4,5,4,4,1,3,1,5,7,2,t2,4,4,2,1,1,1,301
+2020-03-13,3,4,0,2,1,0,5,1,0,2,0,5,5,1,4,0,4,4,4,4,1,4,3,5,5,5,41,Male,mid,conservative,Conservative,2,4,5,5,7,1,5,1,7,7,5,4,4,1,2,1,7,7,1,t2,2,3,1,1,1,1,185
+2020-03-13,4,4,1,2,4,0,3,5,2,1,3,4,2,1,4,1,4,2,3,4,2,4,4,5,4,4,37,Female,mid,conservative,Conservative,2,2,4,7,7,4,4,4,7,7,5,4,4,5,7,3,3,4,4,t2,2,4,2,1,1,1,111
+2020-03-13,4,2,2,2,3,0,3,2,3,2,3,5,3,3,2,4,1,1,2,1,1,2,1,4,5,4,38,Female,mid,conservative,Slightly conservative,3,3,4,7,4,4,7,7,7,7,5,4,5,7,7,4,3,4,5,t2,2,4,2,1,1,1,133
+2020-03-13,2,2,1,2,2,0,3,2,4,1,2,3,5,3,3,0,3,4,1,3,2,3,3,4,4,4,30,Male,high,conservative,Slightly conservative,4,2,2,3,4,4,3,4,7,5,5,5,5,3,3,2,4,4,5,t2,2,3,2,1,1,1,16
+2020-03-13,3,5,3,4,5,1,5,4,3,5,5,5,5,4,5,5,2,3,1,4,3,4,5,5,5,5,38,Male,high,conservative,Extremely conservative,4,4,5,5,7,7,7,7,7,7,7,5,7,7,4,1,5,5,7,t2,2,4,2,1,1,1,118
+2020-03-13,4,5,0,0,0,0,4,5,1,0,0,5,5,1,0,0,5,5,4,1,1,2,3,3,3,4,43,Male,high,liberal,Slightly liberal,2,1,1,7,7,4,3,1,5,5,4,2,2,1,4,7,2,2,2,t2,3,2,3,1,1,1,88
+2020-03-13,5,4,1,1,1,0,5,5,5,2,2,5,4,3,5,0,2,3,2,4,1,3,2,5,4,5,33,Male,mid,liberal,Slightly liberal,5,2,4,7,7,4,4,3,7,7,4,2,2,4,2,2,1,3,2,t2,2,4,1,1,1,1,112
+2020-03-13,5,5,5,5,5,0,4,5,5,5,3,5,5,5,5,5,4,5,5,5,5,4,5,5,5,5,61,Female,mid,liberal,Extremely liberal,5,5,5,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,7,t2,3,4,2,1,1,1,220
+2020-03-13,5,5,5,5,5,0,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,5,54,Female,mid,conservative,Slightly conservative,5,5,5,7,7,7,7,7,7,7,7,7,4,7,7,7,7,7,7,t2,5,5,5,1,1,1,194
+2020-03-13,3,3,3,5,5,0,4,5,5,4,2,5,5,4,4,5,2,4,2,5,5,3,4,5,5,5,38,Female,high,conservative,Conservative,4,5,5,7,7,4,7,7,7,5,7,5,4,5,7,7,4,7,7,t2,3,2,4,1,1,1,66
+2020-03-13,3,3,0,1,2,0,3,2,1,1,3,5,1,3,4,0,2,2,2,4,1,0,4,4,4,4,55,Female,high,conservative,Extremely conservative,4,2,4,4,7,5,7,4,7,4,7,4,4,4,1,1,1,5,4,t2,5,5,2,1,1,1,227
+2020-03-13,4,5,1,2,2,0,5,5,2,1,2,5,5,2,3,0,3,3,2,5,2,5,5,5,5,5,38,Male,high,liberal,Liberal,3,2,3,7,7,4,4,4,7,7,7,3,1,3,3,7,3,4,1,t2,2,3,4,1,1,1,212
+2020-03-13,2,1,0,1,2,0,3,3,1,3,3,4,4,1,4,0,2,2,2,2,1,2,4,4,5,4,45,Male,high,liberal,Liberal,2,2,3,3,3,5,3,4,5,3,2,1,3,3,2,1,2,4,1,t2,4,1,4,1,1,1,264
+2020-03-13,3,4,0,1,0,0,4,4,0,1,0,4,4,0,2,0,1,4,3,2,3,1,3,4,3,4,56,Female,high,liberal,Liberal,1,3,1,7,7,1,4,1,7,7,7,1,2,1,3,2,2,3,1,t2,4,2,2,1,1,1,265
+2020-03-14,3,4,2,3,3,0,5,4,3,3,3,5,5,4,4,2,2,3,2,4,3,4,5,5,5,5,28,Male,mid,conservative,Conservative,5,3,4,5,7,5,4,5,7,7,7,5,5,4,2,3,3,4,4,t2,2,3,2,1,1,1,248
+2020-03-15,5,4,3,3,2,0,5,4,4,1,1,5,4,2,3,5,5,4,4,5,1,5,3,5,5,5,43,Male,high,conservative,Conservative,4,4,3,7,7,2,5,3,7,7,7,4,7,7,7,2,5,5,7,t2,4,4,3,1,1,1,322
